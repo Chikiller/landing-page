@@ -1,0 +1,29 @@
+.section1{
+    background-color: #1F2937;
+}
+
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+}
+
+.navbar-left{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.navbar-right{
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 15px;
+}
