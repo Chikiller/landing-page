@@ -128,3 +128,22 @@ a {
     color: black;
     align-self: flex-end;
 }
+
+.section4 {
+    border: 1px solid red;
+    gap: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+    font-size: 14px;
+    padding: 15px;
+    margin: 50px;
+    border-radius: 4px
+}
+
+.sign-up {
+    border: 1px solid white;
+}
+
