@@ -130,7 +130,6 @@ a {
 }
 
 .section4 {
-    border: 1px solid red;
     gap: 50px;
     display: flex;
     justify-content: space-around;
@@ -138,12 +137,22 @@ a {
     background-color: #3882F6;
     color: white;
     font-size: 14px;
-    padding: 15px;
+    padding: 30px;
     margin: 50px;
-    border-radius: 4px
+    margin-left: 500px;
+    border-radius: 4px;
+    width: 800px;
+    border: 1px solid red;
 }
 
 .sign-up {
     border: 1px solid white;
 }
 
+.footer {
+    background-color: #1F2937;
+    align-items: flex-end;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
